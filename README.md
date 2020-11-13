@@ -15,5 +15,5 @@ It will ask you to paste the path to the photo, but if the photo is in the same 
 Once it runs, it will output a .txt file and the resulting .txt file should look like this if you used my example image:
 ![Click Me!](https://github.com/footloops/Photo-To-ACSII/blob/main/PhotoToACSII/ascii_image.txt)
 
-This couldn't have been done without the great tutorial of ![Javascript Jeep](https://medium.com/javascript-dots/python-ascii-art-generator-60ba9eb559d7)
+This couldn't have been done without the great tutorial of [Javascript Jeep](https://medium.com/javascript-dots/python-ascii-art-generator-60ba9eb559d7)
 The tutorial program didn't work so I edited it and added different operations.
